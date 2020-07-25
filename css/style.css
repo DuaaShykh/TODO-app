@@ -1,17 +1,3 @@
-@media screen and (max-width: 500px){
-  .container{
-    border: 2px solid orangered;
-    border-radius: 15px;
-    width: 450px;
-  
-  }
-  .add_item{
-    font-size: 20px;
-  }
-  
-}
-
-
 .container{
   border: 2px solid orangered;
   border-radius: 15px;
