@@ -1,0 +1,37 @@
+.container{
+  border: 2px solid orangered;
+  border-radius: 15px;
+  width: 500px;
+
+}
+h1{
+  background-color: red;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;
+  }
+
+.add_item{
+  font-size: 30px;
+}
+
+.fa-plus-circle, .fa-trash{
+  color: orangered;
+}
+.fa-pencil-square{
+  color: rgb(231, 89, 38);
+  font-size: 30px !important;
+}
+.fa-minus-square{
+  color: rgb(231, 89, 38);
+  font-size: 30px !important;
+}
+
+li{
+  border-bottom: 2px solid orange;
+  font-size: 30px;
+}
+ul {
+list-style-type: square;
+color: red;
+font-size: 40px;
+}
