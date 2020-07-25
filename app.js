@@ -28,7 +28,7 @@ li.appendChild(edBtn).style.marginLeft= "5px";
 
 
 
-todo.value = " ";
+todo.value = "Enter your items!! ";
 }
 
 function deleteAll(){
