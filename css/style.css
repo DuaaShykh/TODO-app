@@ -1,7 +1,7 @@
 .container{
   border: 2px solid orangered;
   border-radius: 15px;
-  width: 500px;
+  width: 450px;
 
 }
 h1{
@@ -11,7 +11,7 @@ h1{
   }
 
 .add_item{
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .fa-plus-circle, .fa-trash{
